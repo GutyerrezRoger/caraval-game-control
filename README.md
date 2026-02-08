@@ -27,3 +27,6 @@ Aplicação interativa desenvolvida em **React** para gerenciar a experiência d
 2.  `npm install`
 3.  `npm run dev`
 4.  Abra duas abas: `localhost:5173/admin` e `localhost:5173/tv`.
+
+<img width="1910" height="943" alt="Captura de tela 2026-02-08 103805" src="https://github.com/user-attachments/assets/513c3e3e-4b73-4b84-b6c9-be585c96d897" /> <img width="1887" height="940" alt="Captura de tela 2026-02-08 103854" src="https://github.com/user-attachments/assets/f2bfad42-72d0-42f1-a757-38ffb3e158bd" />
+
